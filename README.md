@@ -224,6 +224,6 @@ This project is for educational purposes. Please respect website terms of servic
 
 ---
 
-**Generated on**: 2025-08-03  
+
 **Author**: Akshay Krishna A  
 
