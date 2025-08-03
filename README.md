@@ -200,23 +200,6 @@ def extract_job_data(card):
 - **JobURL**: https://careers.microsoft.com/us/en/job/1234567
 - **JobDescriptionSummary**: Join the Azure team to build cloud infrastructure...
 
-## 🏆 Achievements
-
-✅ **Robust scraping logic** with multiple fallback strategies  
-✅ **Real data integration** from APIs and websites  
-✅ **Comprehensive error handling** for production use  
-✅ **Multiple output formats** with detailed Excel sheets  
-✅ **Professional code structure** with clear documentation  
-✅ **Rate limiting and ethical scraping** practices  
-
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for improvements. Some areas for enhancement:
-
-- Add more job board integrations
-- Implement more sophisticated text parsing for skills/experience
-- Add data visualization features
-- Create a web interface for the scraper
 
 ## 📜 License
 
