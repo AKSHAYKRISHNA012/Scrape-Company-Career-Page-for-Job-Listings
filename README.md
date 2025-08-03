@@ -225,5 +225,6 @@ This project is for educational purposes. Please respect website terms of servic
 ---
 
 **Generated on**: 2025-08-03  
-**Author**: GitHub Copilot  
+**Author**: Akshay Krishna A  
+**Assistant**: GitHub Copilot  
 **Hashtag**: #cl-genai-jobscraper
