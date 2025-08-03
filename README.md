@@ -78,28 +78,6 @@ python microsoft_jobs_scraper.py
 python indeed_jobs_scraper.py
 ```
 
-## 🔧 Technical Features
-
-### Error Handling
-- **Graceful failures**: Script continues even if individual job cards fail to parse
-- **Connection timeouts**: Prevents hanging on slow connections
-- **Rate limiting**: Includes delays between requests to be respectful to servers
-
-### Data Quality
-- **Duplicate removal**: Removes duplicate job listings
-- **Data validation**: Ensures required fields are present
-- **Text cleaning**: Strips whitespace and normalizes data
-
-### Multiple Data Sources
-- **API Integration**: Uses RemoteOK API for real job data
-- **HTML Scraping**: BeautifulSoup for parsing HTML content
-- **Fallback Data**: Generates realistic samples when scraping fails
-
-### Excel Export Features
-- **Multiple sheets**: Summary, location breakdown, title breakdown
-- **Auto-formatting**: Column width adjustment and proper formatting
-- **Data analytics**: Statistics and summaries included
-
 ## 📈 Sample Results
 
 The scraper successfully extracted **18 unique job listings** with the following breakdown:
